@@ -18,15 +18,13 @@ footer {
       padding: 20px 0;
     }
 
-     footer a {
-      color: white;
-      font-weight: bold;
-      text-decoration: none;
-    }
+     
+    body, html {
+     margin: 0;
+     padding: 0;
+}
 
-    
-
-
+  
 section{
     padding-top: 5rem;
 }
