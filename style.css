@@ -9,9 +9,23 @@
     ;
 }
 
-footer{
-    background-color: #19d73f;
-}
+
+
+footer {
+      background-color: #19d73f;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+    }
+
+     footer a {
+      color: white;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    
+
 
 section{
     padding-top: 5rem;
